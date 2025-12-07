@@ -2,28 +2,3 @@ streamlit
 pandas
 numpy
 plotly
-# 📐 O Paradoxo Digital no Ensino da Matemática
-
-Este projeto é um Dashboard Interativo de Data Science que explora a correlação entre o uso de tecnologia e o desempenho em matemática, baseado nas tendências do relatório **PISA 2022 (OCDE)**.
-
-## 🎯 Objetivo
-Demonstrar através de dados que a **qualidade** do uso tecnológico (ativo vs. passivo) é mais determinante para o sucesso escolar do que a quantidade de horas de tela.
-
-## 🛠 Tecnologias Usadas
-* **Python**: Linguagem principal.
-* **Streamlit**: Framework para criação do Web App.
-* **Pandas & Numpy**: Simulação estatística e manipulação de dados.
-* **Plotly**: Visualização de dados interativa.
-
-## 📊 Funcionalidades
-* Simulação de dados estatísticos (Curva Normal, Correlações).
-* Visualização bilingue (Português/Inglês).
-* Análise de correlação entre Ansiedade Tecnológica e Notas.
-
-## 🚀 Como executar
-1. Clone este repositório.
-2. Instale os requisitos: `pip install -r requirements.txt`
-3. Execute: `streamlit run app.py`
-
----
-**Autor:** Luiz Júnior- Professor de Matemática & Analista de Dados
